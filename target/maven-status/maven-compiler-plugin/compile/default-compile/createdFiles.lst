@@ -1,0 +1,17 @@
+datos\VentaDAO.class
+web\Producto.class
+web\Renta.class
+web\User.class
+domain\Empleado.class
+domain\Venta.class
+web\test.class
+domain\ProductoVenta.class
+domain\tableprods.class
+web\Venta.class
+datos\Conexion.class
+datos\EmpleadoDAO.class
+domain\Cliente.class
+domain\Producto.class
+datos\ProductoDAO.class
+datos\ClienteDAO.class
+web\Cliente.class
